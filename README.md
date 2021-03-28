@@ -1,4 +1,4 @@
 # MyProject
 AI Project
 
-#Project ruls
+#Project note
